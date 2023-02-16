@@ -1,0 +1,9 @@
+<svg id="Line_13" data-name="Line 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="578" height="1" viewBox="0 0 578 1">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.685" y1="8.603" x2="0.018" y2="16.403" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#845252"/>
+      <stop offset="1" stop-color="#faf2ee"/>
+    </linearGradient>
+  </defs>
+  <path id="Line_13-2" data-name="Line 13" d="M578,.5H0v-1H578Z" transform="translate(0 0.5)" fill="url(#linear-gradient)"/>
+</svg>
